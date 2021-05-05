@@ -1,0 +1,57 @@
+{
+	"added_words":
+	[
+		"",
+		"param",
+		"namespace",
+		"txt",
+		"env",
+		"foo",
+		"metadata",
+		"plugins",
+		"pragma",
+		"pylint",
+		"Prepend",
+		"refactor",
+		"localhost",
+		"sigint",
+		"plugin",
+		"unhandled",
+		"exfiltrated",
+		"struct",
+		"uninstall"
+	],
+	"alert_when_line_ending_is":
+	[
+		"Windows"
+	],
+	"auto_complete_commit_on_tab": true,
+	"auto_convert_line_endings_to": "Unix",
+	"auto_find_in_selection": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"default_line_ending": "unix",
+	"draw_white_space": "all",
+	"font_size": 9,
+	"ignored_packages":
+	[
+		"Elm Language Support",
+		"Erlang",
+		"NASM x86 Assembly",
+		"RustFormat",
+		"SublimeAStyleFormatter",
+		"Vintage"
+	],
+	"python_test":
+	{
+		"command": "echo"
+	},
+	"rulers":
+	[
+		120
+	],
+	"show_encoding": true,
+	"show_line_endings_on_status_bar": true,
+	"spell_check": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true
+}

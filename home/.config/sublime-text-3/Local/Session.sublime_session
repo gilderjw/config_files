@@ -1,0 +1,1818 @@
+{
+	"folder_history":
+	[
+		"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/flag-hunting",
+		"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare",
+		"/home/gilderjw/Downloads",
+		"/home/gilderjw/Desktop/bitflip",
+		"/home/gilderjw/Desktop/defcon/badge",
+		"/home/gilderjw/Desktop",
+		"/home/gilderjw/Desktop/defcon",
+		"/home/gilderjw/Desktop/fuzzing",
+		"/home/gilderjw/Documents/school/school/excel_2017",
+		"/home/gilderjw/Documents/school/excel_2017",
+		"/home/gilderjw/Desktop/thing/rop.py",
+		"/home/gilderjw/Documents/hacks/first shellcode",
+		"/home/gilderjw/Documents/school/csse477/milestone1/CSSE_477_Web_Server",
+		"/home/gilderjw/Documents/hacks/challs",
+		"/home/gilderjw/Documents/challs/UAF",
+		"/home/gilderjw/Documents/csse432/x86server",
+		"/home/gilderjw/Documents/school/csse373",
+		"/home/gilderjw/Documents/school/csse373/tla+",
+		"/home/gilderjw/Documents/school/csse373/tla+/homework9"
+	],
+	"last_version": 3207,
+	"last_window_id": 68,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"__",
+						"__init__"
+					],
+					[
+						"print",
+						"printScreen"
+					],
+					[
+						"TES",
+						"test_insert"
+					],
+					[
+						"0X",
+						"0xDEADBEEF"
+					],
+					[
+						"list",
+						"list_insert"
+					],
+					[
+						"lis",
+						"list_length"
+					],
+					[
+						"resu",
+						"result"
+					],
+					[
+						"list_",
+						"list_del"
+					],
+					[
+						"si",
+						"size"
+					],
+					[
+						"reu",
+						"return"
+					],
+					[
+						"res",
+						"result_t"
+					],
+					[
+						"ex",
+						"expected"
+					],
+					[
+						"w",
+						"write"
+					],
+					[
+						"sen",
+						"sendline"
+					],
+					[
+						"a",
+						"make_attempt"
+					],
+					[
+						"uni",
+						"unique_inputs"
+					],
+					[
+						"re",
+						"recvline"
+					],
+					[
+						"c",
+						"challenge"
+					],
+					[
+						"do",
+						"doc_type"
+					],
+					[
+						"A",
+						"ArgumentError"
+					],
+					[
+						"HSSF",
+						"HSSFCellStyle"
+					],
+					[
+						"con",
+						"config_file"
+					],
+					[
+						"sock",
+						"socket_event_handler"
+					],
+					[
+						"socket_e",
+						"socket_event_handler"
+					],
+					[
+						"buff",
+						"BUFFER_PADDING"
+					],
+					[
+						"pr",
+						"PRINT_STRING"
+					],
+					[
+						"bu",
+						"BUFFER_SIZE"
+					],
+					[
+						"set",
+						"set_ecx_to_offset_from_esp"
+					],
+					[
+						"mo",
+						"mov_ecx_eax"
+					],
+					[
+						"sub",
+						"sub_from_eax"
+					],
+					[
+						"mov",
+						"mov_edx_esp"
+					],
+					[
+						"libc",
+						"libc_addr"
+					],
+					[
+						"add",
+						"add_eax_ecx"
+					],
+					[
+						"0x",
+						"0x0007d7a7"
+					],
+					[
+						"lib",
+						"libc_addr"
+					],
+					[
+						"prin_n",
+						"print_name_symbol"
+					],
+					[
+						"mu",
+						"mutate_symbol"
+					],
+					[
+						"prin",
+						"printf"
+					],
+					[
+						"all",
+						"allcaps"
+					],
+					[
+						"ch",
+						"channel"
+					],
+					[
+						"tr",
+						"tryingToSend"
+					],
+					[
+						"clo",
+						"close"
+					],
+					[
+						"d",
+						"descriptor"
+					],
+					[
+						"bin",
+						"bind_format"
+					],
+					[
+						"so",
+						"socket_format"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/Makefile/Make.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"clo",
+						"File: Close All"
+					],
+					[
+						"nasm",
+						"Set Syntax: Nasm Assembly"
+					],
+					[
+						"c",
+						"Set Syntax: C"
+					],
+					[
+						"revers",
+						"Permute Lines: Reverse"
+					],
+					[
+						"lint",
+						"SublimeLinter: Goto Error"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"enabl",
+						"Package Control: Enable Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Add Repository"
+					],
+					[
+						"c++",
+						"Set Syntax: C++"
+					],
+					[
+						"python",
+						"Set Syntax: Python"
+					],
+					[
+						"commi",
+						"Git: Commit"
+					],
+					[
+						"add",
+						"Git: Add..."
+					],
+					[
+						"xml",
+						"Set Syntax: XML"
+					],
+					[
+						"checkou",
+						"Git: Checkout Current File"
+					],
+					[
+						"caps",
+						"Convert Case: Swap Case"
+					],
+					[
+						"branch",
+						"Git: New Branch"
+					],
+					[
+						"branc",
+						"Git: Change Branch"
+					],
+					[
+						"bran",
+						"Git: Change Branch"
+					],
+					[
+						"",
+						"Build With: Python"
+					],
+					[
+						"live p",
+						"MarkdownLivePreview: Edit Current File"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"space",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"push",
+						"Git: Push"
+					],
+					[
+						"convert",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"con",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"pytho",
+						"Build With: Python"
+					],
+					[
+						"assem",
+						"Set Syntax: x86 and x86_64 Assembly"
+					],
+					[
+						"buil",
+						"Build With: Python"
+					],
+					[
+						"tospa",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"spaces",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"status",
+						"Git: Status"
+					],
+					[
+						"diff",
+						"Git: Diff Current File"
+					],
+					[
+						"x86",
+						"Set Syntax: x86 and x86_64 Assembly"
+					],
+					[
+						"com",
+						"Git: Commit"
+					],
+					[
+						"pus",
+						"Git: Push"
+					],
+					[
+						"git pul",
+						"Git: Pull"
+					],
+					[
+						"bui",
+						"Build With: Make"
+					],
+					[
+						"git add",
+						"Git: Add All"
+					],
+					[
+						"git ini",
+						"Git: Init"
+					],
+					[
+						"conver to ",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"syntax c",
+						"Set Syntax: C"
+					],
+					[
+						"syntac",
+						"Set Syntax: C"
+					],
+					[
+						"mark",
+						"Set Syntax: Markdown"
+					],
+					[
+						"convertot",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"converttos",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"x8",
+						"Set Syntax: x86 and x86_64 Assembly"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 632.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/jsonbourne/parser.sh",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/jsonbourne/pprint.sh",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/jsonbourne/JSONTestSuite/parsers/jsonbourne.sh",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/jsonbourne/JSONTestSuite/run_tests.py",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/jsonbourne/helpers.sh",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/jsonbourne/JSONTestSuite/parsers/test_jsonbourne.py",
+				"/home/gilderjw/Desktop/bitflip/bitflip-conjecture/test.c",
+				"/home/gilderjw/Desktop/defcon/badge/client.py",
+				"/home/gilderjw/Downloads/doublethink/scripts/Latest_packager.py",
+				"/home/gilderjw/Downloads/doublethink/scripts/Latest_packager.c",
+				"/home/gilderjw/Desktop/test_for_alex/implement.cpp",
+				"/home/gilderjw/Desktop/test_for_alex/linked_list_tests.c",
+				"/home/gilderjw/Desktop/test_for_alex/Makefile",
+				"/home/gilderjw/Documents/Wiki Races",
+				"/home/gilderjw/Desktop/linked_list_tests.c",
+				"/home/gilderjw/CPPLINT.cfg",
+				"/home/gilderjw/Desktop/implement.cpp",
+				"/home/gilderjw/.config/sublime-text-3/Packages/Emacs Pro Essentials/Default.sublime-keymap",
+				"/home/gilderjw/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/gilderjw/.config/sublime-text-3/Packages/SublimeLinter",
+				"/home/gilderjw/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+				"/home/gilderjw/.config/sublime-text-3/Installed Packages/SublimeLinter-cpplint.sublime-package",
+				"/home/gilderjw/Desktop/implement.c",
+				"/home/gilderjw/Desktop/defcon/openvote/demo.capnp",
+				"/home/gilderjw/Desktop/defcon/openvote/unpacker.py",
+				"/home/gilderjw/Desktop/defcon/bitflipper/pow.py",
+				"/home/gilderjw/Desktop/defcon/openvote/test.cpp",
+				"/home/gilderjw/Desktop/defcon/openvote/demo.capnp.c++",
+				"/home/gilderjw/Downloads/text",
+				"/home/gilderjw/Desktop/defcon/bitflipper/core.core",
+				"/home/gilderjw/Desktop/defcon/bitflipper/makeelf.py",
+				"/home/gilderjw/Desktop/defcon/www/pow.py",
+				"/home/gilderjw/Desktop/defcon/pow.c",
+				"/home/gilderjw/Desktop/defcon/bitflipper/pkl2json",
+				"/home/gilderjw/Desktop/defcon/bitflipper/attempts.pkl.json",
+				"/home/gilderjw/Desktop/defcon/bitflipper/meme.json",
+				"/home/gilderjw/Desktop/defcon/www/output.log",
+				"/home/gilderjw/Desktop/defcon/bitflipper/lawl.txt",
+				"/home/gilderjw/Desktop/defcon/bitflipper/test.c",
+				"/home/gilderjw/Desktop/defcon/pow.py",
+				"/home/gilderjw/Downloads/smcauth_syn.v",
+				"/home/gilderjw/Downloads/smcauth",
+				"/home/gilderjw/Desktop/defcon/exploit.py",
+				"/home/gilderjw/Desktop/defcon/baby.c",
+				"/home/gilderjw/Desktop/fuzzing/z3/custom_hash.c",
+				"/home/gilderjw/Desktop/fuzzing/z3/z3demo.py",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/xlsx/test_xlsx_style_factory.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/style_factory.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/test_xml_parser.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/workbook_factory.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/xlsx/test_xlsx_workbook_factory.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/xls/test_xls_style_factory.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/xlsx/mutators/test_xlsx_background_pattern_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/mutators/background_color_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/style_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/xlsx/mutators/test_xlsx_background_color_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/xlsx/mutators/test_xlsx_font_size_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/event_handler.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/event_type.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/performance.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/mutators/background_pattern_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/mutators/font_size_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/mutators/height_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/connection_handler.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/xlsx/test_xls_style_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/tests/csse.html",
+				"/home/gilderjw/Documents/school/reveng_independant_study/goodluck_dir/binwalk.txt",
+				"/home/gilderjw/Documents/school/excel_2017/src/xlsx/xlsx_font_factory.rb",
+				"/home/gilderjw/Documents/school/reveng_independant_study/goodluck_dir/string.txt",
+				"/home/gilderjw/Documents/school/excel_2017/src/xlsx/xlsx_event_handler.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xlsx/xlsx_sheet_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xlsx/xlsx_style_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xlsx/xlsx_cell_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xls/xls_font_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xls/xls_sheet_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xls/xls_style_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xls/xls_cell_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/socket_event_handler.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xls/xls_event_handler.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/jar-bootstrap.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/doc_raptor_excel.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/context.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/connection_handler.rb",
+				"/home/gilderjw/Documents/school/excel_2017/conf/settings.yml",
+				"/home/gilderjw/Documents/school/excel_2017/src/event_type.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/socket_event.rb",
+				"/home/gilderjw/Documents/school/excel_2017/tests/performance.rb",
+				"/home/gilderjw/Documents/school/excel_2017/build.gradle",
+				"/home/gilderjw/Documents/school/reveng_independant_study/split/exploit.py",
+				"/home/gilderjw/Documents/school/reveng_independant_study/rop_aslr/vuln.c",
+				"/home/gilderjw/Desktop/thing/rop.py",
+				"/home/gilderjw/Desktop/thing/rope.py",
+				"/home/gilderjw/Desktop/google-chrome.desktop",
+				"/home/gilderjw/Documents/hacks/first shellcode/shellcode.s",
+				"/home/gilderjw/Documents/school/reveng_independant_study/vulnerable-binary/level7.c",
+				"/home/gilderjw/Documents/school/reveng_independant_study/vulnerable-binary/exploit.py",
+				"/home/gilderjw/Documents/school/reveng_independant_study/vulnerable-binary/Makefile",
+				"/home/gilderjw/Desktop/icr",
+				"/home/gilderjw/Documents/school/csse477/milestone1/CSSE_477_Web_Server/.gitlab-ci.yml",
+				"/home/gilderjw/Desktop/try.py",
+				"/home/gilderjw/Documents/school/csse477/milestone1/CSSE_477_Web_Server/README.md",
+				"/home/gilderjw/Documents/hacks/challs/buffer_overflow/Makefile",
+				"/home/gilderjw/Documents/hacks/challs/buffer_overflow/overflow.c",
+				"/home/gilderjw/Desktop/sublime_settings/Default.sublime-keymap",
+				"/home/gilderjw/Desktop/titties",
+				"/home/gilderjw/Documents/school/csse477/RoseCalculatorDivide/.gitlab-ci.yml",
+				"/home/gilderjw/Downloads/CSSE477-Calculator-243487331e98.json",
+				"/home/gilderjw/Desktop/level6.py",
+				"/home/gilderjw/Desktop/meme",
+				"/home/gilderjw/.config/i3/config",
+				"/home/gilderjw/Documents/brightness/brightness.c",
+				"/home/gilderjw/Documents/challs/UAF/spitoon.c",
+				"/home/gilderjw/Documents/brightness/Makefile",
+				"/home/gilderjw/Desktop/brightness.c",
+				"/home/gilderjw/Documents/hacks/first shellcode/Makefile",
+				"/home/gilderjw/Desktop/square.s",
+				"/home/gilderjw/Desktop/square.py",
+				"/home/gilderjw/Desktop/pwntoolz.py",
+				"/home/gilderjw/Documents/hacks/first shellcode/shellcode.c",
+				"/home/gilderjw/square.py",
+				"/home/gilderjw/Desktop/substringAlpha.py",
+				"/home/gilderjw/Documents/csse432/x86server/server.s",
+				"/home/gilderjw/Desktop/lsb.py",
+				"/home/gilderjw/Desktop/lsb_visualization.py",
+				"/home/gilderjw/Documents/school/csse373/exam3/Exam3/src/tla/Partition.java",
+				"/home/gilderjw/Desktop/decrypt.py",
+				"/home/gilderjw/Desktop/crackme_0.c"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 178.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"transparent",
+					"bashdb.*",
+					"bash.*"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"black\n00...\n00000\n00000\n00...\n00.00",
+					"black\n00...\n00000",
+					"",
+					"cat"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 74.0
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 306.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 251.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 214.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"imp",
+						"implement.c"
+					],
+					[
+						"co",
+						"bitflipper/core.core"
+					],
+					[
+						"py",
+						"pow.py"
+					],
+					[
+						"cr",
+						"fuzz/crackme.c"
+					],
+					[
+						"style",
+						"src/style_mutator.rb"
+					],
+					[
+						"font",
+						"src/mutators/font_size_mutator.rb"
+					],
+					[
+						"xlsx",
+						"tests/unit_tests/xlsx/test_xlsx_style_factory.rb"
+					],
+					[
+						"perfor",
+						"tests/performance.rb"
+					],
+					[
+						"work",
+						"src/workbook_factory.rb"
+					],
+					[
+						"xlsxwo",
+						"tests/unit_tests/xlsx/test_xlsx_workbook_factory.rb"
+					],
+					[
+						"colot",
+						"tests/unit_tests/xlsx/mutators/test_xlsx_background_color_mutator.rb"
+					],
+					[
+						"unit",
+						"tests/unit.rb"
+					],
+					[
+						"styl",
+						"src/style_mutator.rb"
+					],
+					[
+						"sytl",
+						"src/style_factory.rb"
+					],
+					[
+						"back",
+						"src/mutators/background_color_mutator.rb"
+					],
+					[
+						"test",
+						"tests/unit_tests/xlsx/mutators/test_xlsx_background_pattern_mutator.rb"
+					],
+					[
+						"sty",
+						"src/style_factory.rb"
+					],
+					[
+						"wor",
+						"src/workbook_factory.rb"
+					],
+					[
+						"event",
+						"src/event_type.rb"
+					],
+					[
+						"mu",
+						"src/style_mutator.rb"
+					],
+					[
+						"test_xlsx",
+						"tests/unit_tests/xlsx/mutators/test_xlsx_background_color_mutator.rb"
+					],
+					[
+						"uni",
+						"tests/unit.rb"
+					],
+					[
+						"connec",
+						"src/connection_handler.rb"
+					],
+					[
+						"doc",
+						"src/doc_raptor_excel.rb"
+					],
+					[
+						"jar",
+						"src/jar-bootstrap.rb"
+					],
+					[
+						"xlsx_eve",
+						"src/xlsx/xlsx_event_handler.rb"
+					],
+					[
+						"conn",
+						"src/connection_handler.rb"
+					],
+					[
+						"conte",
+						"src/context.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 160.0,
+				"last_filter": "normali",
+				"selected_items":
+				[
+					[
+						"normali",
+						"normalizeNumber"
+					]
+				],
+				"width": 664.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 252.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sl",
+						"shellcode"
+					],
+					[
+						"co",
+						"code"
+					],
+					[
+						"STA",
+						"STATIC_JMP_REGEX"
+					],
+					[
+						"ins",
+						"instr"
+					],
+					[
+						"instru",
+						"instructions"
+					],
+					[
+						"inst",
+						"instr"
+					],
+					[
+						"in",
+						"instruction"
+					],
+					[
+						"nex",
+						"next_inst"
+					],
+					[
+						"ne",
+						"next_insts"
+					],
+					[
+						"if",
+						"ifmain\tif __name__ == '__main__'"
+					],
+					[
+						"NE",
+						"next_insts"
+					],
+					[
+						"__",
+						"__init__"
+					],
+					[
+						"print",
+						"printScreen"
+					],
+					[
+						"TES",
+						"test_insert"
+					],
+					[
+						"0X",
+						"0xDEADBEEF"
+					],
+					[
+						"list",
+						"list_insert"
+					],
+					[
+						"lis",
+						"list_length"
+					],
+					[
+						"resu",
+						"result"
+					],
+					[
+						"list_",
+						"list_del"
+					],
+					[
+						"si",
+						"size"
+					],
+					[
+						"reu",
+						"return"
+					],
+					[
+						"res",
+						"result_t"
+					],
+					[
+						"ex",
+						"expected"
+					],
+					[
+						"w",
+						"write"
+					],
+					[
+						"sen",
+						"sendline"
+					],
+					[
+						"a",
+						"make_attempt"
+					],
+					[
+						"uni",
+						"unique_inputs"
+					],
+					[
+						"re",
+						"recvline"
+					],
+					[
+						"c",
+						"challenge"
+					],
+					[
+						"do",
+						"doc_type"
+					],
+					[
+						"A",
+						"ArgumentError"
+					],
+					[
+						"HSSF",
+						"HSSFCellStyle"
+					],
+					[
+						"con",
+						"config_file"
+					],
+					[
+						"sock",
+						"socket_event_handler"
+					],
+					[
+						"socket_e",
+						"socket_event_handler"
+					],
+					[
+						"buff",
+						"BUFFER_PADDING"
+					],
+					[
+						"pr",
+						"PRINT_STRING"
+					],
+					[
+						"bu",
+						"BUFFER_SIZE"
+					],
+					[
+						"set",
+						"set_ecx_to_offset_from_esp"
+					],
+					[
+						"mo",
+						"mov_ecx_eax"
+					],
+					[
+						"sub",
+						"sub_from_eax"
+					],
+					[
+						"mov",
+						"mov_edx_esp"
+					],
+					[
+						"libc",
+						"libc_addr"
+					],
+					[
+						"add",
+						"add_eax_ecx"
+					],
+					[
+						"0x",
+						"0x0007d7a7"
+					],
+					[
+						"lib",
+						"libc_addr"
+					],
+					[
+						"prin_n",
+						"print_name_symbol"
+					],
+					[
+						"mu",
+						"mutate_symbol"
+					],
+					[
+						"prin",
+						"printf"
+					],
+					[
+						"all",
+						"allcaps"
+					],
+					[
+						"ch",
+						"channel"
+					],
+					[
+						"tr",
+						"tryingToSend"
+					],
+					[
+						"clo",
+						"close"
+					],
+					[
+						"d",
+						"descriptor"
+					],
+					[
+						"bin",
+						"bind_format"
+					],
+					[
+						"so",
+						"socket_format"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/Makefile/Make.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"arm",
+						"Set Syntax: ARM Assembly"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"lowe",
+						"Convert Case: Lower Case"
+					],
+					[
+						"bui",
+						"Build With: Python"
+					],
+					[
+						"clo",
+						"File: Close All"
+					],
+					[
+						"nasm",
+						"Set Syntax: Nasm Assembly"
+					],
+					[
+						"c",
+						"Set Syntax: C"
+					],
+					[
+						"revers",
+						"Permute Lines: Reverse"
+					],
+					[
+						"lint",
+						"SublimeLinter: Goto Error"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"enabl",
+						"Package Control: Enable Package"
+					],
+					[
+						"package",
+						"Package Control: Add Repository"
+					],
+					[
+						"c++",
+						"Set Syntax: C++"
+					],
+					[
+						"python",
+						"Set Syntax: Python"
+					],
+					[
+						"commi",
+						"Git: Commit"
+					],
+					[
+						"add",
+						"Git: Add..."
+					],
+					[
+						"xml",
+						"Set Syntax: XML"
+					],
+					[
+						"checkou",
+						"Git: Checkout Current File"
+					],
+					[
+						"caps",
+						"Convert Case: Swap Case"
+					],
+					[
+						"branch",
+						"Git: New Branch"
+					],
+					[
+						"branc",
+						"Git: Change Branch"
+					],
+					[
+						"bran",
+						"Git: Change Branch"
+					],
+					[
+						"",
+						"Build With: Python"
+					],
+					[
+						"live p",
+						"MarkdownLivePreview: Edit Current File"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"space",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"push",
+						"Git: Push"
+					],
+					[
+						"convert",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"con",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"pytho",
+						"Build With: Python"
+					],
+					[
+						"assem",
+						"Set Syntax: x86 and x86_64 Assembly"
+					],
+					[
+						"buil",
+						"Build With: Python"
+					],
+					[
+						"tospa",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"spaces",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"status",
+						"Git: Status"
+					],
+					[
+						"diff",
+						"Git: Diff Current File"
+					],
+					[
+						"x86",
+						"Set Syntax: x86 and x86_64 Assembly"
+					],
+					[
+						"com",
+						"Git: Commit"
+					],
+					[
+						"pus",
+						"Git: Push"
+					],
+					[
+						"git pul",
+						"Git: Pull"
+					],
+					[
+						"git add",
+						"Git: Add All"
+					],
+					[
+						"git ini",
+						"Git: Init"
+					],
+					[
+						"conver to ",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"syntax c",
+						"Set Syntax: C"
+					],
+					[
+						"syntac",
+						"Set Syntax: C"
+					],
+					[
+						"mark",
+						"Set Syntax: Markdown"
+					],
+					[
+						"convertot",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"converttos",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"x8",
+						"Set Syntax: x86 and x86_64 Assembly"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 632.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/maybe"
+			],
+			"file_history":
+			[
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/nooopsled/Makefile",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/nooopsled/service-parallel.py",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/nooopsled/print_flag.py",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/nooopsled/shellcode.s",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/nooopsled/service.py",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/nooopsled/Dockerfile",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/flag-hunting/trace.txt",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/keystone-0.9.1/docs/COMPILE-NIX.md",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/flag-hunting/parse.py",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/flag-hunting/disas.txt",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/flag-hunting/trace_patched.txt",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/flag-hunting/the_prog.txt",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/jsonbourne/parser.sh",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/jsonbourne/helpers.sh",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/jsonbourne/pprint.sh",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/jsonbourne/JSONTestSuite/parsers/jsonbourne.sh",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/jsonbourne/JSONTestSuite/run_tests.py",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/jsonbourne/JSONTestSuite/parsers/test_jsonbourne.py",
+				"/home/gilderjw/Desktop/bitflip/bitflip-conjecture/test.c",
+				"/home/gilderjw/Desktop/defcon/badge/client.py",
+				"/home/gilderjw/Downloads/doublethink/scripts/Latest_packager.py",
+				"/home/gilderjw/Downloads/doublethink/scripts/Latest_packager.c",
+				"/home/gilderjw/Desktop/test_for_alex/implement.cpp",
+				"/home/gilderjw/Desktop/test_for_alex/linked_list_tests.c",
+				"/home/gilderjw/Desktop/test_for_alex/Makefile",
+				"/home/gilderjw/Documents/Wiki Races",
+				"/home/gilderjw/Desktop/linked_list_tests.c",
+				"/home/gilderjw/CPPLINT.cfg",
+				"/home/gilderjw/Desktop/implement.cpp",
+				"/home/gilderjw/.config/sublime-text-3/Packages/Emacs Pro Essentials/Default.sublime-keymap",
+				"/home/gilderjw/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/gilderjw/.config/sublime-text-3/Packages/SublimeLinter",
+				"/home/gilderjw/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+				"/home/gilderjw/.config/sublime-text-3/Installed Packages/SublimeLinter-cpplint.sublime-package",
+				"/home/gilderjw/Desktop/implement.c",
+				"/home/gilderjw/Desktop/defcon/openvote/demo.capnp",
+				"/home/gilderjw/Desktop/defcon/openvote/unpacker.py",
+				"/home/gilderjw/Desktop/defcon/bitflipper/pow.py",
+				"/home/gilderjw/Desktop/defcon/openvote/test.cpp",
+				"/home/gilderjw/Desktop/defcon/openvote/demo.capnp.c++",
+				"/home/gilderjw/Downloads/text",
+				"/home/gilderjw/Desktop/defcon/bitflipper/core.core",
+				"/home/gilderjw/Desktop/defcon/bitflipper/makeelf.py",
+				"/home/gilderjw/Desktop/defcon/www/pow.py",
+				"/home/gilderjw/Desktop/defcon/pow.c",
+				"/home/gilderjw/Desktop/defcon/bitflipper/pkl2json",
+				"/home/gilderjw/Desktop/defcon/bitflipper/attempts.pkl.json",
+				"/home/gilderjw/Desktop/defcon/bitflipper/meme.json",
+				"/home/gilderjw/Desktop/defcon/www/output.log",
+				"/home/gilderjw/Desktop/defcon/bitflipper/lawl.txt",
+				"/home/gilderjw/Desktop/defcon/bitflipper/test.c",
+				"/home/gilderjw/Desktop/defcon/pow.py",
+				"/home/gilderjw/Downloads/smcauth_syn.v",
+				"/home/gilderjw/Downloads/smcauth",
+				"/home/gilderjw/Desktop/defcon/exploit.py",
+				"/home/gilderjw/Desktop/defcon/baby.c",
+				"/home/gilderjw/Desktop/fuzzing/z3/custom_hash.c",
+				"/home/gilderjw/Desktop/fuzzing/z3/z3demo.py",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/xlsx/test_xlsx_style_factory.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/style_factory.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/test_xml_parser.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/workbook_factory.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/xlsx/test_xlsx_workbook_factory.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/xls/test_xls_style_factory.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/xlsx/mutators/test_xlsx_background_pattern_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/mutators/background_color_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/style_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/xlsx/mutators/test_xlsx_background_color_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/xlsx/mutators/test_xlsx_font_size_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/event_handler.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/event_type.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/performance.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/mutators/background_pattern_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/mutators/font_size_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/mutators/height_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/connection_handler.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/xlsx/test_xls_style_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/tests/csse.html",
+				"/home/gilderjw/Documents/school/reveng_independant_study/goodluck_dir/binwalk.txt",
+				"/home/gilderjw/Documents/school/excel_2017/src/xlsx/xlsx_font_factory.rb",
+				"/home/gilderjw/Documents/school/reveng_independant_study/goodluck_dir/string.txt",
+				"/home/gilderjw/Documents/school/excel_2017/src/xlsx/xlsx_event_handler.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xlsx/xlsx_sheet_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xlsx/xlsx_style_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xlsx/xlsx_cell_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xls/xls_font_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xls/xls_sheet_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xls/xls_style_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xls/xls_cell_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/socket_event_handler.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xls/xls_event_handler.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/jar-bootstrap.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/doc_raptor_excel.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/context.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/connection_handler.rb",
+				"/home/gilderjw/Documents/school/excel_2017/conf/settings.yml",
+				"/home/gilderjw/Documents/school/excel_2017/src/event_type.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/socket_event.rb",
+				"/home/gilderjw/Documents/school/excel_2017/tests/performance.rb",
+				"/home/gilderjw/Documents/school/excel_2017/build.gradle",
+				"/home/gilderjw/Documents/school/reveng_independant_study/split/exploit.py",
+				"/home/gilderjw/Documents/school/reveng_independant_study/rop_aslr/vuln.c",
+				"/home/gilderjw/Desktop/thing/rop.py",
+				"/home/gilderjw/Desktop/thing/rope.py",
+				"/home/gilderjw/Desktop/google-chrome.desktop",
+				"/home/gilderjw/Documents/hacks/first shellcode/shellcode.s",
+				"/home/gilderjw/Documents/school/reveng_independant_study/vulnerable-binary/level7.c",
+				"/home/gilderjw/Documents/school/reveng_independant_study/vulnerable-binary/exploit.py",
+				"/home/gilderjw/Documents/school/reveng_independant_study/vulnerable-binary/Makefile",
+				"/home/gilderjw/Desktop/icr",
+				"/home/gilderjw/Documents/school/csse477/milestone1/CSSE_477_Web_Server/.gitlab-ci.yml",
+				"/home/gilderjw/Desktop/try.py",
+				"/home/gilderjw/Documents/school/csse477/milestone1/CSSE_477_Web_Server/README.md",
+				"/home/gilderjw/Documents/hacks/challs/buffer_overflow/Makefile",
+				"/home/gilderjw/Documents/hacks/challs/buffer_overflow/overflow.c",
+				"/home/gilderjw/Desktop/sublime_settings/Default.sublime-keymap",
+				"/home/gilderjw/Desktop/titties",
+				"/home/gilderjw/Documents/school/csse477/RoseCalculatorDivide/.gitlab-ci.yml",
+				"/home/gilderjw/Downloads/CSSE477-Calculator-243487331e98.json",
+				"/home/gilderjw/Desktop/level6.py",
+				"/home/gilderjw/Desktop/meme",
+				"/home/gilderjw/.config/i3/config",
+				"/home/gilderjw/Documents/brightness/brightness.c",
+				"/home/gilderjw/Documents/challs/UAF/spitoon.c",
+				"/home/gilderjw/Documents/brightness/Makefile",
+				"/home/gilderjw/Desktop/brightness.c",
+				"/home/gilderjw/Documents/hacks/first shellcode/Makefile"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 178.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					".byte ",
+					"0x[0-9a-f]* +",
+					"transparent",
+					"bashdb.*",
+					"bash.*"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"// .byte",
+					"COPY",
+					"",
+					"black\n00...\n00000\n00000\n00...\n00.00",
+					"black\n00...\n00000",
+					"",
+					"cat"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 74.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 306.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 251.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,0,18,1916,1058,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"imp",
+						"implement.c"
+					],
+					[
+						"co",
+						"bitflipper/core.core"
+					],
+					[
+						"py",
+						"pow.py"
+					],
+					[
+						"cr",
+						"fuzz/crackme.c"
+					],
+					[
+						"style",
+						"src/style_mutator.rb"
+					],
+					[
+						"font",
+						"src/mutators/font_size_mutator.rb"
+					],
+					[
+						"xlsx",
+						"tests/unit_tests/xlsx/test_xlsx_style_factory.rb"
+					],
+					[
+						"perfor",
+						"tests/performance.rb"
+					],
+					[
+						"work",
+						"src/workbook_factory.rb"
+					],
+					[
+						"xlsxwo",
+						"tests/unit_tests/xlsx/test_xlsx_workbook_factory.rb"
+					],
+					[
+						"colot",
+						"tests/unit_tests/xlsx/mutators/test_xlsx_background_color_mutator.rb"
+					],
+					[
+						"unit",
+						"tests/unit.rb"
+					],
+					[
+						"styl",
+						"src/style_mutator.rb"
+					],
+					[
+						"sytl",
+						"src/style_factory.rb"
+					],
+					[
+						"back",
+						"src/mutators/background_color_mutator.rb"
+					],
+					[
+						"test",
+						"tests/unit_tests/xlsx/mutators/test_xlsx_background_pattern_mutator.rb"
+					],
+					[
+						"sty",
+						"src/style_factory.rb"
+					],
+					[
+						"wor",
+						"src/workbook_factory.rb"
+					],
+					[
+						"event",
+						"src/event_type.rb"
+					],
+					[
+						"mu",
+						"src/style_mutator.rb"
+					],
+					[
+						"test_xlsx",
+						"tests/unit_tests/xlsx/mutators/test_xlsx_background_color_mutator.rb"
+					],
+					[
+						"uni",
+						"tests/unit.rb"
+					],
+					[
+						"connec",
+						"src/connection_handler.rb"
+					],
+					[
+						"doc",
+						"src/doc_raptor_excel.rb"
+					],
+					[
+						"jar",
+						"src/jar-bootstrap.rb"
+					],
+					[
+						"xlsx_eve",
+						"src/xlsx/xlsx_event_handler.rb"
+					],
+					[
+						"conn",
+						"src/connection_handler.rb"
+					],
+					[
+						"conte",
+						"src/context.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 160.0,
+				"last_filter": "normali",
+				"selected_items":
+				[
+					[
+						"normali",
+						"normalizeNumber"
+					]
+				],
+				"width": 664.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 196.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 67,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

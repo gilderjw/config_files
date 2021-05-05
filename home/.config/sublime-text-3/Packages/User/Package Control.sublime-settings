@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ARM Assembly",
+		"Emacs Pro Essentials",
+		"Git",
+		"Increment Selection",
+		"MarkdownLivePreview",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-cpplint",
+		"SublimeManpage",
+		"x86 and x86_64 Assembly"
+	]
+}

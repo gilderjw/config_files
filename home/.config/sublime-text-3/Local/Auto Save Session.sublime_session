@@ -1,0 +1,2561 @@
+{
+	"folder_history":
+	[
+		"/home/gilderjw/Documents/hacks/quals2021",
+		"/home/gilderjw/Documents/plaidctf2021",
+		"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/flag-hunting",
+		"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare",
+		"/home/gilderjw/Downloads",
+		"/home/gilderjw/Desktop/bitflip",
+		"/home/gilderjw/Desktop/defcon/badge",
+		"/home/gilderjw/Desktop",
+		"/home/gilderjw/Desktop/defcon",
+		"/home/gilderjw/Desktop/fuzzing",
+		"/home/gilderjw/Documents/school/school/excel_2017",
+		"/home/gilderjw/Documents/school/excel_2017",
+		"/home/gilderjw/Desktop/thing/rop.py",
+		"/home/gilderjw/Documents/hacks/first shellcode",
+		"/home/gilderjw/Documents/school/csse477/milestone1/CSSE_477_Web_Server",
+		"/home/gilderjw/Documents/hacks/challs",
+		"/home/gilderjw/Documents/challs/UAF",
+		"/home/gilderjw/Documents/csse432/x86server",
+		"/home/gilderjw/Documents/school/csse373",
+		"/home/gilderjw/Documents/school/csse373/tla+",
+		"/home/gilderjw/Documents/school/csse373/tla+/homework9"
+	],
+	"last_version": 3207,
+	"last_window_id": 74,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1048.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pre",
+						"prev_line"
+					],
+					[
+						"targe",
+						"jump_targets"
+					],
+					[
+						"jump",
+						"jump_targets"
+					],
+					[
+						"addr",
+						"ADDR_FORMAT"
+					],
+					[
+						"node",
+						"node_generator"
+					],
+					[
+						"cont",
+						"contents"
+					],
+					[
+						"line",
+						"line_generator"
+					],
+					[
+						"commen",
+						"comment_func"
+					],
+					[
+						"input",
+						"input_contents"
+					],
+					[
+						"out",
+						"outfile"
+					],
+					[
+						"output",
+						"output_stream"
+					],
+					[
+						"li",
+						"line_len"
+					],
+					[
+						"instr",
+						"instruction_str"
+					],
+					[
+						"instru",
+						"instruction_strs"
+					],
+					[
+						"ins",
+						"instruction_str"
+					],
+					[
+						"address",
+						"address_str"
+					],
+					[
+						"inst",
+						"instruction_str"
+					],
+					[
+						"prog",
+						"progStart"
+					],
+					[
+						"secon",
+						"second_thing"
+					],
+					[
+						"stk",
+						"stk_var_6"
+					],
+					[
+						"flag",
+						"flag_encoded"
+					],
+					[
+						"ROP",
+						"ROP_3"
+					],
+					[
+						"VA",
+						"VALUE_TO_PATCH_2"
+					],
+					[
+						"OFF",
+						"OFFSET_TO_PATCH_2"
+					],
+					[
+						"rop",
+						"rop3"
+					],
+					[
+						"val",
+						"val2"
+					],
+					[
+						"off",
+						"offset2"
+					],
+					[
+						"b",
+						"b64decode"
+					],
+					[
+						"recv",
+						"recvuntil"
+					],
+					[
+						"VAL",
+						"VALUE_TO_PATCH_2"
+					],
+					[
+						"sen",
+						"send_recv"
+					],
+					[
+						"sl",
+						"shellcode"
+					],
+					[
+						"co",
+						"code"
+					],
+					[
+						"STA",
+						"STATIC_JMP_REGEX"
+					],
+					[
+						"in",
+						"instruction"
+					],
+					[
+						"nex",
+						"next_inst"
+					],
+					[
+						"ne",
+						"next_insts"
+					],
+					[
+						"if",
+						"ifmain\tif __name__ == '__main__'"
+					],
+					[
+						"NE",
+						"next_insts"
+					],
+					[
+						"__",
+						"__init__"
+					],
+					[
+						"print",
+						"printScreen"
+					],
+					[
+						"TES",
+						"test_insert"
+					],
+					[
+						"0X",
+						"0xDEADBEEF"
+					],
+					[
+						"list",
+						"list_insert"
+					],
+					[
+						"lis",
+						"list_length"
+					],
+					[
+						"resu",
+						"result"
+					],
+					[
+						"list_",
+						"list_del"
+					],
+					[
+						"si",
+						"size"
+					],
+					[
+						"reu",
+						"return"
+					],
+					[
+						"res",
+						"result_t"
+					],
+					[
+						"ex",
+						"expected"
+					],
+					[
+						"w",
+						"write"
+					],
+					[
+						"a",
+						"make_attempt"
+					],
+					[
+						"uni",
+						"unique_inputs"
+					],
+					[
+						"re",
+						"recvline"
+					],
+					[
+						"c",
+						"challenge"
+					],
+					[
+						"do",
+						"doc_type"
+					],
+					[
+						"A",
+						"ArgumentError"
+					],
+					[
+						"HSSF",
+						"HSSFCellStyle"
+					],
+					[
+						"con",
+						"config_file"
+					],
+					[
+						"sock",
+						"socket_event_handler"
+					],
+					[
+						"socket_e",
+						"socket_event_handler"
+					],
+					[
+						"buff",
+						"BUFFER_PADDING"
+					],
+					[
+						"pr",
+						"PRINT_STRING"
+					],
+					[
+						"bu",
+						"BUFFER_SIZE"
+					],
+					[
+						"set",
+						"set_ecx_to_offset_from_esp"
+					],
+					[
+						"mo",
+						"mov_ecx_eax"
+					],
+					[
+						"sub",
+						"sub_from_eax"
+					],
+					[
+						"mov",
+						"mov_edx_esp"
+					],
+					[
+						"libc",
+						"libc_addr"
+					],
+					[
+						"add",
+						"add_eax_ecx"
+					],
+					[
+						"0x",
+						"0x0007d7a7"
+					],
+					[
+						"lib",
+						"libc_addr"
+					],
+					[
+						"prin_n",
+						"print_name_symbol"
+					],
+					[
+						"mu",
+						"mutate_symbol"
+					],
+					[
+						"prin",
+						"printf"
+					],
+					[
+						"all",
+						"allcaps"
+					],
+					[
+						"ch",
+						"channel"
+					],
+					[
+						"tr",
+						"tryingToSend"
+					],
+					[
+						"clo",
+						"close"
+					],
+					[
+						"d",
+						"descriptor"
+					],
+					[
+						"bin",
+						"bind_format"
+					],
+					[
+						"so",
+						"socket_format"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/Makefile/Make.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"commi",
+						"Git: Commit"
+					],
+					[
+						"add",
+						"Git: Add..."
+					],
+					[
+						"upper",
+						"Convert Case: Upper Case"
+					],
+					[
+						"quick",
+						"Git: Quick Commit (current file)"
+					],
+					[
+						"check",
+						"Git: Checkout Current File"
+					],
+					[
+						"diff",
+						"Git: Diff Current File"
+					],
+					[
+						"arm",
+						"Set Syntax: ARM Assembly"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"lowe",
+						"Convert Case: Lower Case"
+					],
+					[
+						"bui",
+						"Build With: Python"
+					],
+					[
+						"clo",
+						"File: Close All"
+					],
+					[
+						"nasm",
+						"Set Syntax: Nasm Assembly"
+					],
+					[
+						"c",
+						"Set Syntax: C"
+					],
+					[
+						"revers",
+						"Permute Lines: Reverse"
+					],
+					[
+						"lint",
+						"SublimeLinter: Goto Error"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"enabl",
+						"Package Control: Enable Package"
+					],
+					[
+						"package",
+						"Package Control: Add Repository"
+					],
+					[
+						"c++",
+						"Set Syntax: C++"
+					],
+					[
+						"python",
+						"Set Syntax: Python"
+					],
+					[
+						"xml",
+						"Set Syntax: XML"
+					],
+					[
+						"checkou",
+						"Git: Checkout Current File"
+					],
+					[
+						"caps",
+						"Convert Case: Swap Case"
+					],
+					[
+						"branch",
+						"Git: New Branch"
+					],
+					[
+						"branc",
+						"Git: Change Branch"
+					],
+					[
+						"bran",
+						"Git: Change Branch"
+					],
+					[
+						"",
+						"Build With: Python"
+					],
+					[
+						"live p",
+						"MarkdownLivePreview: Edit Current File"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"space",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"push",
+						"Git: Push"
+					],
+					[
+						"convert",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"con",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"pytho",
+						"Build With: Python"
+					],
+					[
+						"assem",
+						"Set Syntax: x86 and x86_64 Assembly"
+					],
+					[
+						"buil",
+						"Build With: Python"
+					],
+					[
+						"tospa",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"spaces",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"status",
+						"Git: Status"
+					],
+					[
+						"x86",
+						"Set Syntax: x86 and x86_64 Assembly"
+					],
+					[
+						"com",
+						"Git: Commit"
+					],
+					[
+						"pus",
+						"Git: Push"
+					],
+					[
+						"git pul",
+						"Git: Pull"
+					],
+					[
+						"git add",
+						"Git: Add All"
+					],
+					[
+						"git ini",
+						"Git: Init"
+					],
+					[
+						"conver to ",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"syntax c",
+						"Set Syntax: C"
+					],
+					[
+						"syntac",
+						"Set Syntax: C"
+					],
+					[
+						"mark",
+						"Set Syntax: Markdown"
+					],
+					[
+						"convertot",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"converttos",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"x8",
+						"Set Syntax: x86 and x86_64 Assembly"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 632.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/gilderjw/Documents/plaidctf2021/mini-pokemon/mindis2/annotated.asm",
+				"/home/gilderjw/Documents/plaidctf2021/mini-pokemon/mindis2/test_dec.asm1",
+				"/home/gilderjw/Documents/plaidctf2021/mini-pokemon/minipokemon.asm",
+				"/home/gilderjw/Documents/plaidctf2021/src/main",
+				"/home/gilderjw/Documents/plaidctf2021/prog.ml",
+				"/home/gilderjw/Documents/plaidctf2021/Dockerfile",
+				"/home/gilderjw/Documents/plaidctf2021/ocaml/stdlib/stdlib.ml",
+				"/home/gilderjw/Documents/plaidctf2021/src/sos/sos.ml",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/checksec.sh",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/introool/find_instr.py",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/introool/thing.s",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/introool/connect.py",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/nooopsled/Makefile",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/nooopsled/service-parallel.py",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/nooopsled/print_flag.py",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/nooopsled/shellcode.s",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/nooopsled/service.py",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/nooopsled/Dockerfile",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/flag-hunting/trace.txt",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/keystone-0.9.1/docs/COMPILE-NIX.md",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/flag-hunting/parse.py",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/flag-hunting/disas.txt",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/flag-hunting/trace_patched.txt",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/flag-hunting/the_prog.txt",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/jsonbourne/parser.sh",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/jsonbourne/helpers.sh",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/jsonbourne/pprint.sh",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/jsonbourne/JSONTestSuite/parsers/jsonbourne.sh",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/jsonbourne/JSONTestSuite/run_tests.py",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/jsonbourne/JSONTestSuite/parsers/test_jsonbourne.py",
+				"/home/gilderjw/Desktop/bitflip/bitflip-conjecture/test.c",
+				"/home/gilderjw/Desktop/defcon/badge/client.py",
+				"/home/gilderjw/Downloads/doublethink/scripts/Latest_packager.py",
+				"/home/gilderjw/Downloads/doublethink/scripts/Latest_packager.c",
+				"/home/gilderjw/Desktop/test_for_alex/implement.cpp",
+				"/home/gilderjw/Desktop/test_for_alex/linked_list_tests.c",
+				"/home/gilderjw/Desktop/test_for_alex/Makefile",
+				"/home/gilderjw/Documents/Wiki Races",
+				"/home/gilderjw/Desktop/linked_list_tests.c",
+				"/home/gilderjw/CPPLINT.cfg",
+				"/home/gilderjw/Desktop/implement.cpp",
+				"/home/gilderjw/.config/sublime-text-3/Packages/Emacs Pro Essentials/Default.sublime-keymap",
+				"/home/gilderjw/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/gilderjw/.config/sublime-text-3/Packages/SublimeLinter",
+				"/home/gilderjw/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+				"/home/gilderjw/.config/sublime-text-3/Installed Packages/SublimeLinter-cpplint.sublime-package",
+				"/home/gilderjw/Desktop/implement.c",
+				"/home/gilderjw/Desktop/defcon/openvote/demo.capnp",
+				"/home/gilderjw/Desktop/defcon/openvote/unpacker.py",
+				"/home/gilderjw/Desktop/defcon/bitflipper/pow.py",
+				"/home/gilderjw/Desktop/defcon/openvote/test.cpp",
+				"/home/gilderjw/Desktop/defcon/openvote/demo.capnp.c++",
+				"/home/gilderjw/Downloads/text",
+				"/home/gilderjw/Desktop/defcon/bitflipper/core.core",
+				"/home/gilderjw/Desktop/defcon/bitflipper/makeelf.py",
+				"/home/gilderjw/Desktop/defcon/www/pow.py",
+				"/home/gilderjw/Desktop/defcon/pow.c",
+				"/home/gilderjw/Desktop/defcon/bitflipper/pkl2json",
+				"/home/gilderjw/Desktop/defcon/bitflipper/attempts.pkl.json",
+				"/home/gilderjw/Desktop/defcon/bitflipper/meme.json",
+				"/home/gilderjw/Desktop/defcon/www/output.log",
+				"/home/gilderjw/Desktop/defcon/bitflipper/lawl.txt",
+				"/home/gilderjw/Desktop/defcon/bitflipper/test.c",
+				"/home/gilderjw/Desktop/defcon/pow.py",
+				"/home/gilderjw/Downloads/smcauth_syn.v",
+				"/home/gilderjw/Downloads/smcauth",
+				"/home/gilderjw/Desktop/defcon/exploit.py",
+				"/home/gilderjw/Desktop/defcon/baby.c",
+				"/home/gilderjw/Desktop/fuzzing/z3/custom_hash.c",
+				"/home/gilderjw/Desktop/fuzzing/z3/z3demo.py",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/xlsx/test_xlsx_style_factory.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/style_factory.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/test_xml_parser.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/workbook_factory.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/xlsx/test_xlsx_workbook_factory.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/xls/test_xls_style_factory.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/xlsx/mutators/test_xlsx_background_pattern_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/mutators/background_color_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/style_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/xlsx/mutators/test_xlsx_background_color_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/xlsx/mutators/test_xlsx_font_size_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/event_handler.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/event_type.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/performance.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/mutators/background_pattern_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/mutators/font_size_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/mutators/height_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/connection_handler.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/xlsx/test_xls_style_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/tests/csse.html",
+				"/home/gilderjw/Documents/school/reveng_independant_study/goodluck_dir/binwalk.txt",
+				"/home/gilderjw/Documents/school/excel_2017/src/xlsx/xlsx_font_factory.rb",
+				"/home/gilderjw/Documents/school/reveng_independant_study/goodluck_dir/string.txt",
+				"/home/gilderjw/Documents/school/excel_2017/src/xlsx/xlsx_event_handler.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xlsx/xlsx_sheet_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xlsx/xlsx_style_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xlsx/xlsx_cell_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xls/xls_font_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xls/xls_sheet_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xls/xls_style_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xls/xls_cell_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/socket_event_handler.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xls/xls_event_handler.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/jar-bootstrap.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/doc_raptor_excel.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/context.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/connection_handler.rb",
+				"/home/gilderjw/Documents/school/excel_2017/conf/settings.yml",
+				"/home/gilderjw/Documents/school/excel_2017/src/event_type.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/socket_event.rb",
+				"/home/gilderjw/Documents/school/excel_2017/tests/performance.rb",
+				"/home/gilderjw/Documents/school/excel_2017/build.gradle",
+				"/home/gilderjw/Documents/school/reveng_independant_study/split/exploit.py",
+				"/home/gilderjw/Documents/school/reveng_independant_study/rop_aslr/vuln.c",
+				"/home/gilderjw/Desktop/thing/rop.py",
+				"/home/gilderjw/Desktop/thing/rope.py",
+				"/home/gilderjw/Desktop/google-chrome.desktop",
+				"/home/gilderjw/Documents/hacks/first shellcode/shellcode.s",
+				"/home/gilderjw/Documents/school/reveng_independant_study/vulnerable-binary/level7.c",
+				"/home/gilderjw/Documents/school/reveng_independant_study/vulnerable-binary/exploit.py",
+				"/home/gilderjw/Documents/school/reveng_independant_study/vulnerable-binary/Makefile",
+				"/home/gilderjw/Desktop/icr",
+				"/home/gilderjw/Documents/school/csse477/milestone1/CSSE_477_Web_Server/.gitlab-ci.yml",
+				"/home/gilderjw/Desktop/try.py",
+				"/home/gilderjw/Documents/school/csse477/milestone1/CSSE_477_Web_Server/README.md",
+				"/home/gilderjw/Documents/hacks/challs/buffer_overflow/Makefile",
+				"/home/gilderjw/Documents/hacks/challs/buffer_overflow/overflow.c"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 178.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					":"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"\\n"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 74.0
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 306.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 251.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"annot",
+						"mini-pokemon/mindis2/annotated.asm"
+					],
+					[
+						"test_dec",
+						"mini-pokemon/mindis2/test_dec.asm1"
+					],
+					[
+						"lmao",
+						"mini-pokemon/mindis2/lmao.asm"
+					],
+					[
+						"base",
+						"mini-pokemon/mindis2/base.asm"
+					],
+					[
+						"test",
+						"mini-pokemon/mindis2/test.asm"
+					],
+					[
+						".asm",
+						"mini-pokemon/minipokemon.asm"
+					],
+					[
+						"fail_",
+						"mini-pokemon/fail_address.txt"
+					],
+					[
+						"stdli",
+						"ocaml/stdlib/stdlib.ml"
+					],
+					[
+						"main",
+						"src/main"
+					],
+					[
+						"sos.",
+						"src/sos/sos.ml"
+					],
+					[
+						"docker",
+						"Dockerfile"
+					],
+					[
+						"imp",
+						"implement.c"
+					],
+					[
+						"co",
+						"bitflipper/core.core"
+					],
+					[
+						"py",
+						"pow.py"
+					],
+					[
+						"cr",
+						"fuzz/crackme.c"
+					],
+					[
+						"style",
+						"src/style_mutator.rb"
+					],
+					[
+						"font",
+						"src/mutators/font_size_mutator.rb"
+					],
+					[
+						"xlsx",
+						"tests/unit_tests/xlsx/test_xlsx_style_factory.rb"
+					],
+					[
+						"perfor",
+						"tests/performance.rb"
+					],
+					[
+						"work",
+						"src/workbook_factory.rb"
+					],
+					[
+						"xlsxwo",
+						"tests/unit_tests/xlsx/test_xlsx_workbook_factory.rb"
+					],
+					[
+						"colot",
+						"tests/unit_tests/xlsx/mutators/test_xlsx_background_color_mutator.rb"
+					],
+					[
+						"unit",
+						"tests/unit.rb"
+					],
+					[
+						"styl",
+						"src/style_mutator.rb"
+					],
+					[
+						"sytl",
+						"src/style_factory.rb"
+					],
+					[
+						"back",
+						"src/mutators/background_color_mutator.rb"
+					],
+					[
+						"sty",
+						"src/style_factory.rb"
+					],
+					[
+						"wor",
+						"src/workbook_factory.rb"
+					],
+					[
+						"event",
+						"src/event_type.rb"
+					],
+					[
+						"mu",
+						"src/style_mutator.rb"
+					],
+					[
+						"test_xlsx",
+						"tests/unit_tests/xlsx/mutators/test_xlsx_background_color_mutator.rb"
+					],
+					[
+						"uni",
+						"tests/unit.rb"
+					],
+					[
+						"connec",
+						"src/connection_handler.rb"
+					],
+					[
+						"doc",
+						"src/doc_raptor_excel.rb"
+					],
+					[
+						"jar",
+						"src/jar-bootstrap.rb"
+					],
+					[
+						"xlsx_eve",
+						"src/xlsx/xlsx_event_handler.rb"
+					],
+					[
+						"conn",
+						"src/connection_handler.rb"
+					],
+					[
+						"conte",
+						"src/context.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 160.0,
+				"last_filter": "normali",
+				"selected_items":
+				[
+					[
+						"normali",
+						"normalizeNumber"
+					]
+				],
+				"width": 664.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 196.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1916.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pre",
+						"prev_line"
+					],
+					[
+						"targe",
+						"jump_targets"
+					],
+					[
+						"jump",
+						"jump_targets"
+					],
+					[
+						"addr",
+						"ADDR_FORMAT"
+					],
+					[
+						"node",
+						"node_generator"
+					],
+					[
+						"cont",
+						"contents"
+					],
+					[
+						"line",
+						"line_generator"
+					],
+					[
+						"commen",
+						"comment_func"
+					],
+					[
+						"input",
+						"input_contents"
+					],
+					[
+						"out",
+						"outfile"
+					],
+					[
+						"output",
+						"output_stream"
+					],
+					[
+						"li",
+						"line_len"
+					],
+					[
+						"instr",
+						"instruction_str"
+					],
+					[
+						"instru",
+						"instruction_strs"
+					],
+					[
+						"ins",
+						"instruction_str"
+					],
+					[
+						"address",
+						"address_str"
+					],
+					[
+						"inst",
+						"instruction_str"
+					],
+					[
+						"prog",
+						"progStart"
+					],
+					[
+						"secon",
+						"second_thing"
+					],
+					[
+						"stk",
+						"stk_var_6"
+					],
+					[
+						"flag",
+						"flag_encoded"
+					],
+					[
+						"ROP",
+						"ROP_3"
+					],
+					[
+						"VA",
+						"VALUE_TO_PATCH_2"
+					],
+					[
+						"OFF",
+						"OFFSET_TO_PATCH_2"
+					],
+					[
+						"rop",
+						"rop3"
+					],
+					[
+						"val",
+						"val2"
+					],
+					[
+						"off",
+						"offset2"
+					],
+					[
+						"b",
+						"b64decode"
+					],
+					[
+						"recv",
+						"recvuntil"
+					],
+					[
+						"VAL",
+						"VALUE_TO_PATCH_2"
+					],
+					[
+						"sen",
+						"send_recv"
+					],
+					[
+						"sl",
+						"shellcode"
+					],
+					[
+						"co",
+						"code"
+					],
+					[
+						"STA",
+						"STATIC_JMP_REGEX"
+					],
+					[
+						"in",
+						"instruction"
+					],
+					[
+						"nex",
+						"next_inst"
+					],
+					[
+						"ne",
+						"next_insts"
+					],
+					[
+						"if",
+						"ifmain\tif __name__ == '__main__'"
+					],
+					[
+						"NE",
+						"next_insts"
+					],
+					[
+						"__",
+						"__init__"
+					],
+					[
+						"print",
+						"printScreen"
+					],
+					[
+						"TES",
+						"test_insert"
+					],
+					[
+						"0X",
+						"0xDEADBEEF"
+					],
+					[
+						"list",
+						"list_insert"
+					],
+					[
+						"lis",
+						"list_length"
+					],
+					[
+						"resu",
+						"result"
+					],
+					[
+						"list_",
+						"list_del"
+					],
+					[
+						"si",
+						"size"
+					],
+					[
+						"reu",
+						"return"
+					],
+					[
+						"res",
+						"result_t"
+					],
+					[
+						"ex",
+						"expected"
+					],
+					[
+						"w",
+						"write"
+					],
+					[
+						"a",
+						"make_attempt"
+					],
+					[
+						"uni",
+						"unique_inputs"
+					],
+					[
+						"re",
+						"recvline"
+					],
+					[
+						"c",
+						"challenge"
+					],
+					[
+						"do",
+						"doc_type"
+					],
+					[
+						"A",
+						"ArgumentError"
+					],
+					[
+						"HSSF",
+						"HSSFCellStyle"
+					],
+					[
+						"con",
+						"config_file"
+					],
+					[
+						"sock",
+						"socket_event_handler"
+					],
+					[
+						"socket_e",
+						"socket_event_handler"
+					],
+					[
+						"buff",
+						"BUFFER_PADDING"
+					],
+					[
+						"pr",
+						"PRINT_STRING"
+					],
+					[
+						"bu",
+						"BUFFER_SIZE"
+					],
+					[
+						"set",
+						"set_ecx_to_offset_from_esp"
+					],
+					[
+						"mo",
+						"mov_ecx_eax"
+					],
+					[
+						"sub",
+						"sub_from_eax"
+					],
+					[
+						"mov",
+						"mov_edx_esp"
+					],
+					[
+						"libc",
+						"libc_addr"
+					],
+					[
+						"add",
+						"add_eax_ecx"
+					],
+					[
+						"0x",
+						"0x0007d7a7"
+					],
+					[
+						"lib",
+						"libc_addr"
+					],
+					[
+						"prin_n",
+						"print_name_symbol"
+					],
+					[
+						"mu",
+						"mutate_symbol"
+					],
+					[
+						"prin",
+						"printf"
+					],
+					[
+						"all",
+						"allcaps"
+					],
+					[
+						"ch",
+						"channel"
+					],
+					[
+						"tr",
+						"tryingToSend"
+					],
+					[
+						"clo",
+						"close"
+					],
+					[
+						"d",
+						"descriptor"
+					],
+					[
+						"bin",
+						"bind_format"
+					],
+					[
+						"so",
+						"socket_format"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/gilderjw/Documents/hacks/quals2021/coooinbase/dist/x.sh",
+					"settings":
+					{
+						"buffer_size": 234,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "0000000 0000 0000 0000 0000 0000 0000 0000 0000\n*\n00003e8\n",
+					"file": "/home/gilderjw/Documents/hacks/quals2021/coooinbase/dist/rootfshead",
+					"file_size": 58,
+					"file_write_time": 132643805704405925,
+					"settings":
+					{
+						"buffer_size": 58,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/gilderjw/Documents/hacks/quals2021/coooinbase/dist/gen_input.rb",
+					"settings":
+					{
+						"buffer_size": 299,
+						"encoding": "UTF-8",
+						"line_ending": "Unix",
+						"name": "require 'bson'"
+					}
+				},
+				{
+					"contents": "PROCESSED CC: \u001f\u0001\nPROCESSED CC: \u001f\u0001\nPROCESSED CC: \u001f\u0001\n",
+					"settings":
+					{
+						"buffer_size": 51,
+						"line_ending": "Unix",
+						"name": "PROCESSED CC: \u001f\u0001"
+					}
+				},
+				{
+					"contents": "ED CC: \u001f\u0001\nPROCESSED CC: \u001f\u0001\n\n\n",
+					"settings":
+					{
+						"buffer_size": 29,
+						"line_ending": "Unix",
+						"name": "ED CC: \u001f\u0001"
+					}
+				},
+				{
+					"file": "/home/gilderjw/Documents/hacks/quals2021/coooinbase/dist/result",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "firstname=&email=&address=&city=&state=&zip=&cardname=&cardnumber=4556044102837596&expmonth=&expyear=&cvv=",
+					"file": "/home/gilderjw/Documents/hacks/quals2021/coooinbase/dist/input.txt",
+					"file_size": 106,
+					"file_write_time": 132643772451979723,
+					"settings":
+					{
+						"buffer_size": 106,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/gilderjw/Documents/hacks/quals2021/coooinbase/dist/x.rb",
+					"settings":
+					{
+						"buffer_size": 1907,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/Makefile/Make.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"incremen",
+						"Increment Selection"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"commi",
+						"Git: Commit"
+					],
+					[
+						"add",
+						"Git: Add..."
+					],
+					[
+						"upper",
+						"Convert Case: Upper Case"
+					],
+					[
+						"quick",
+						"Git: Quick Commit (current file)"
+					],
+					[
+						"check",
+						"Git: Checkout Current File"
+					],
+					[
+						"diff",
+						"Git: Diff Current File"
+					],
+					[
+						"arm",
+						"Set Syntax: ARM Assembly"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"lowe",
+						"Convert Case: Lower Case"
+					],
+					[
+						"bui",
+						"Build With: Python"
+					],
+					[
+						"clo",
+						"File: Close All"
+					],
+					[
+						"nasm",
+						"Set Syntax: Nasm Assembly"
+					],
+					[
+						"c",
+						"Set Syntax: C"
+					],
+					[
+						"revers",
+						"Permute Lines: Reverse"
+					],
+					[
+						"lint",
+						"SublimeLinter: Goto Error"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"enabl",
+						"Package Control: Enable Package"
+					],
+					[
+						"package",
+						"Package Control: Add Repository"
+					],
+					[
+						"c++",
+						"Set Syntax: C++"
+					],
+					[
+						"python",
+						"Set Syntax: Python"
+					],
+					[
+						"xml",
+						"Set Syntax: XML"
+					],
+					[
+						"checkou",
+						"Git: Checkout Current File"
+					],
+					[
+						"caps",
+						"Convert Case: Swap Case"
+					],
+					[
+						"branch",
+						"Git: New Branch"
+					],
+					[
+						"branc",
+						"Git: Change Branch"
+					],
+					[
+						"bran",
+						"Git: Change Branch"
+					],
+					[
+						"",
+						"Build With: Python"
+					],
+					[
+						"live p",
+						"MarkdownLivePreview: Edit Current File"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"space",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"push",
+						"Git: Push"
+					],
+					[
+						"convert",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"con",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"pytho",
+						"Build With: Python"
+					],
+					[
+						"assem",
+						"Set Syntax: x86 and x86_64 Assembly"
+					],
+					[
+						"buil",
+						"Build With: Python"
+					],
+					[
+						"tospa",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"spaces",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"status",
+						"Git: Status"
+					],
+					[
+						"x86",
+						"Set Syntax: x86 and x86_64 Assembly"
+					],
+					[
+						"com",
+						"Git: Commit"
+					],
+					[
+						"pus",
+						"Git: Push"
+					],
+					[
+						"git pul",
+						"Git: Pull"
+					],
+					[
+						"git add",
+						"Git: Add All"
+					],
+					[
+						"git ini",
+						"Git: Init"
+					],
+					[
+						"conver to ",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"syntax c",
+						"Set Syntax: C"
+					],
+					[
+						"syntac",
+						"Set Syntax: C"
+					],
+					[
+						"mark",
+						"Set Syntax: Markdown"
+					],
+					[
+						"convertot",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"converttos",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"x8",
+						"Set Syntax: x86 and x86_64 Assembly"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 632.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/gilderjw/Documents/hacks/quals2021",
+				"/home/gilderjw/Documents/hacks/quals2021/coooinbase",
+				"/home/gilderjw/Documents/hacks/quals2021/coooinbase/dist"
+			],
+			"file_history":
+			[
+				"/home/gilderjw/Documents/hacks/quals2021/coooinbase/dist/un-b64-input.bin",
+				"/home/gilderjw/Documents/hacks/quals2021/coooinbase/dist/vmcorehead",
+				"/home/gilderjw/Documents/hacks/quals2021/coooinbase/dist/rootfs.img",
+				"/home/gilderjw/Documents/hacks/quals2021/exploit-for-dummies/dir1/dir2/questions.txt",
+				"/home/gilderjw/Documents/hacks/quals2021/exploit-for-dummies/dir1/dir2/solve.py",
+				"/home/gilderjw/Documents/hacks/quals2021/exploit-for-dummies/solve.py",
+				"/home/gilderjw/Documents/hacks/quals2021/exploit-for-dummies/flag",
+				"/home/gilderjw/Documents/hacks/quals2021/exploit-for-dummies/bulk_rename.py",
+				"/home/gilderjw/Documents/hacks/quals2021/exploit-for-dummies/dir1/dir2/mp.py",
+				"/home/gilderjw/Documents/hacks/quals2021/exploit-for-dummies/questions.txt",
+				"/home/gilderjw/Documents/plaidctf2021/mini-pokemon/mindis2/annotated.asm",
+				"/home/gilderjw/Documents/plaidctf2021/mini-pokemon/mindis2/test_dec.asm1",
+				"/home/gilderjw/Documents/plaidctf2021/mini-pokemon/minipokemon.asm",
+				"/home/gilderjw/Documents/plaidctf2021/src/main",
+				"/home/gilderjw/Documents/plaidctf2021/prog.ml",
+				"/home/gilderjw/Documents/plaidctf2021/Dockerfile",
+				"/home/gilderjw/Documents/plaidctf2021/ocaml/stdlib/stdlib.ml",
+				"/home/gilderjw/Documents/plaidctf2021/src/sos/sos.ml",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/checksec.sh",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/introool/find_instr.py",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/introool/thing.s",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/introool/connect.py",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/nooopsled/Makefile",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/nooopsled/service-parallel.py",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/nooopsled/print_flag.py",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/nooopsled/shellcode.s",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/nooopsled/service.py",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/nooopsled/Dockerfile",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/flag-hunting/trace.txt",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/keystone-0.9.1/docs/COMPILE-NIX.md",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/flag-hunting/parse.py",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/flag-hunting/disas.txt",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/flag-hunting/trace_patched.txt",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/flag-hunting/the_prog.txt",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/jsonbourne/parser.sh",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/jsonbourne/helpers.sh",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/jsonbourne/pprint.sh",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/jsonbourne/JSONTestSuite/parsers/jsonbourne.sh",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/jsonbourne/JSONTestSuite/run_tests.py",
+				"/run/user/1000/gvfs/smb-share:server=ubuntu.local,share=sambashare/jsonbourne/JSONTestSuite/parsers/test_jsonbourne.py",
+				"/home/gilderjw/Desktop/bitflip/bitflip-conjecture/test.c",
+				"/home/gilderjw/Desktop/defcon/badge/client.py",
+				"/home/gilderjw/Downloads/doublethink/scripts/Latest_packager.py",
+				"/home/gilderjw/Downloads/doublethink/scripts/Latest_packager.c",
+				"/home/gilderjw/Desktop/test_for_alex/implement.cpp",
+				"/home/gilderjw/Desktop/test_for_alex/linked_list_tests.c",
+				"/home/gilderjw/Desktop/test_for_alex/Makefile",
+				"/home/gilderjw/Documents/Wiki Races",
+				"/home/gilderjw/Desktop/linked_list_tests.c",
+				"/home/gilderjw/CPPLINT.cfg",
+				"/home/gilderjw/Desktop/implement.cpp",
+				"/home/gilderjw/.config/sublime-text-3/Packages/Emacs Pro Essentials/Default.sublime-keymap",
+				"/home/gilderjw/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/gilderjw/.config/sublime-text-3/Packages/SublimeLinter",
+				"/home/gilderjw/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+				"/home/gilderjw/.config/sublime-text-3/Installed Packages/SublimeLinter-cpplint.sublime-package",
+				"/home/gilderjw/Desktop/implement.c",
+				"/home/gilderjw/Desktop/defcon/openvote/demo.capnp",
+				"/home/gilderjw/Desktop/defcon/openvote/unpacker.py",
+				"/home/gilderjw/Desktop/defcon/bitflipper/pow.py",
+				"/home/gilderjw/Desktop/defcon/openvote/test.cpp",
+				"/home/gilderjw/Desktop/defcon/openvote/demo.capnp.c++",
+				"/home/gilderjw/Downloads/text",
+				"/home/gilderjw/Desktop/defcon/bitflipper/core.core",
+				"/home/gilderjw/Desktop/defcon/bitflipper/makeelf.py",
+				"/home/gilderjw/Desktop/defcon/www/pow.py",
+				"/home/gilderjw/Desktop/defcon/pow.c",
+				"/home/gilderjw/Desktop/defcon/bitflipper/pkl2json",
+				"/home/gilderjw/Desktop/defcon/bitflipper/attempts.pkl.json",
+				"/home/gilderjw/Desktop/defcon/bitflipper/meme.json",
+				"/home/gilderjw/Desktop/defcon/www/output.log",
+				"/home/gilderjw/Desktop/defcon/bitflipper/lawl.txt",
+				"/home/gilderjw/Desktop/defcon/bitflipper/test.c",
+				"/home/gilderjw/Desktop/defcon/pow.py",
+				"/home/gilderjw/Downloads/smcauth_syn.v",
+				"/home/gilderjw/Downloads/smcauth",
+				"/home/gilderjw/Desktop/defcon/exploit.py",
+				"/home/gilderjw/Desktop/defcon/baby.c",
+				"/home/gilderjw/Desktop/fuzzing/z3/custom_hash.c",
+				"/home/gilderjw/Desktop/fuzzing/z3/z3demo.py",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/xlsx/test_xlsx_style_factory.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/style_factory.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/test_xml_parser.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/workbook_factory.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/xlsx/test_xlsx_workbook_factory.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/xls/test_xls_style_factory.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/xlsx/mutators/test_xlsx_background_pattern_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/mutators/background_color_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/style_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/xlsx/mutators/test_xlsx_background_color_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/xlsx/mutators/test_xlsx_font_size_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/event_handler.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/event_type.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/performance.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/mutators/background_pattern_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/mutators/font_size_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/mutators/height_mutator.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/src/connection_handler.rb",
+				"/home/gilderjw/Documents/school/school/excel_2017/tests/unit_tests/xlsx/test_xls_style_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/tests/csse.html",
+				"/home/gilderjw/Documents/school/reveng_independant_study/goodluck_dir/binwalk.txt",
+				"/home/gilderjw/Documents/school/excel_2017/src/xlsx/xlsx_font_factory.rb",
+				"/home/gilderjw/Documents/school/reveng_independant_study/goodluck_dir/string.txt",
+				"/home/gilderjw/Documents/school/excel_2017/src/xlsx/xlsx_event_handler.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xlsx/xlsx_sheet_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xlsx/xlsx_style_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xlsx/xlsx_cell_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xls/xls_font_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xls/xls_sheet_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xls/xls_style_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xls/xls_cell_factory.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/socket_event_handler.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/xls/xls_event_handler.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/jar-bootstrap.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/doc_raptor_excel.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/context.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/connection_handler.rb",
+				"/home/gilderjw/Documents/school/excel_2017/conf/settings.yml",
+				"/home/gilderjw/Documents/school/excel_2017/src/event_type.rb",
+				"/home/gilderjw/Documents/school/excel_2017/src/socket_event.rb",
+				"/home/gilderjw/Documents/school/excel_2017/tests/performance.rb",
+				"/home/gilderjw/Documents/school/excel_2017/build.gradle",
+				"/home/gilderjw/Documents/school/reveng_independant_study/split/exploit.py",
+				"/home/gilderjw/Documents/school/reveng_independant_study/rop_aslr/vuln.c",
+				"/home/gilderjw/Desktop/thing/rop.py",
+				"/home/gilderjw/Desktop/thing/rope.py",
+				"/home/gilderjw/Desktop/google-chrome.desktop"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 178.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"category",
+					",",
+					",$",
+					"^ ",
+					"\\\"",
+					"100",
+					":",
+					"\"",
+					":"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"",
+					"\\n"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/gilderjw/Documents/hacks/quals2021"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/gilderjw/Documents/hacks/quals2021/coooinbase/dist/x.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 234,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										231,
+										231
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+									"touched": 1619909524.13
+								},
+								"translation.x": 958.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/gilderjw/Documents/hacks/quals2021/coooinbase/dist/rootfshead",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 58,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										58,
+										58
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"touched": 1619909172.59
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/gilderjw/Documents/hacks/quals2021/coooinbase/dist/gen_input.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 299,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										56,
+										56
+									]
+								],
+								"settings":
+								{
+									"auto_name": "require 'bson'",
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"touched": 1619924663.03
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 51,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										51,
+										51
+									]
+								],
+								"settings":
+								{
+									"auto_name": "PROCESSED CC: \u001f\u0001",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"touched": 1619918355.91
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 29,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										29,
+										29
+									]
+								],
+								"settings":
+								{
+									"auto_name": "ED CC: \u001f\u0001",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"touched": 1619916619.87
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/gilderjw/Documents/hacks/quals2021/coooinbase/dist/x.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 234,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										234,
+										234
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+									"touched": 1619909524.13
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/gilderjw/Documents/hacks/quals2021/coooinbase/dist/result",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"touched": 1619911618.53
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/gilderjw/Documents/hacks/quals2021/coooinbase/dist/input.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 106,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										106,
+										106
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"touched": 1619907325.65
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/gilderjw/Documents/hacks/quals2021/coooinbase/dist/x.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1907,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1155,
+										1155
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"touched": 1619924642.5,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 218.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 74.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 306.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 251.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,0,14,1916,1062,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"un",
+						"coooinbase/dist/un-b64-input.bin"
+					],
+					[
+						"resul",
+						"coooinbase/dist/result"
+					],
+					[
+						"x.sh",
+						"coooinbase/dist/x.sh"
+					],
+					[
+						"solve.",
+						"exploit-for-dummies/dir1/dir2/solve.py"
+					],
+					[
+						"annot",
+						"mini-pokemon/mindis2/annotated.asm"
+					],
+					[
+						"test_dec",
+						"mini-pokemon/mindis2/test_dec.asm1"
+					],
+					[
+						"lmao",
+						"mini-pokemon/mindis2/lmao.asm"
+					],
+					[
+						"base",
+						"mini-pokemon/mindis2/base.asm"
+					],
+					[
+						"test",
+						"mini-pokemon/mindis2/test.asm"
+					],
+					[
+						".asm",
+						"mini-pokemon/minipokemon.asm"
+					],
+					[
+						"fail_",
+						"mini-pokemon/fail_address.txt"
+					],
+					[
+						"stdli",
+						"ocaml/stdlib/stdlib.ml"
+					],
+					[
+						"main",
+						"src/main"
+					],
+					[
+						"sos.",
+						"src/sos/sos.ml"
+					],
+					[
+						"docker",
+						"Dockerfile"
+					],
+					[
+						"imp",
+						"implement.c"
+					],
+					[
+						"co",
+						"bitflipper/core.core"
+					],
+					[
+						"py",
+						"pow.py"
+					],
+					[
+						"cr",
+						"fuzz/crackme.c"
+					],
+					[
+						"style",
+						"src/style_mutator.rb"
+					],
+					[
+						"font",
+						"src/mutators/font_size_mutator.rb"
+					],
+					[
+						"xlsx",
+						"tests/unit_tests/xlsx/test_xlsx_style_factory.rb"
+					],
+					[
+						"perfor",
+						"tests/performance.rb"
+					],
+					[
+						"work",
+						"src/workbook_factory.rb"
+					],
+					[
+						"xlsxwo",
+						"tests/unit_tests/xlsx/test_xlsx_workbook_factory.rb"
+					],
+					[
+						"colot",
+						"tests/unit_tests/xlsx/mutators/test_xlsx_background_color_mutator.rb"
+					],
+					[
+						"unit",
+						"tests/unit.rb"
+					],
+					[
+						"styl",
+						"src/style_mutator.rb"
+					],
+					[
+						"sytl",
+						"src/style_factory.rb"
+					],
+					[
+						"back",
+						"src/mutators/background_color_mutator.rb"
+					],
+					[
+						"sty",
+						"src/style_factory.rb"
+					],
+					[
+						"wor",
+						"src/workbook_factory.rb"
+					],
+					[
+						"event",
+						"src/event_type.rb"
+					],
+					[
+						"mu",
+						"src/style_mutator.rb"
+					],
+					[
+						"test_xlsx",
+						"tests/unit_tests/xlsx/mutators/test_xlsx_background_color_mutator.rb"
+					],
+					[
+						"uni",
+						"tests/unit.rb"
+					],
+					[
+						"connec",
+						"src/connection_handler.rb"
+					],
+					[
+						"doc",
+						"src/doc_raptor_excel.rb"
+					],
+					[
+						"jar",
+						"src/jar-bootstrap.rb"
+					],
+					[
+						"xlsx_eve",
+						"src/xlsx/xlsx_event_handler.rb"
+					],
+					[
+						"conn",
+						"src/connection_handler.rb"
+					],
+					[
+						"conte",
+						"src/context.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 160.0,
+				"last_filter": "normali",
+				"selected_items":
+				[
+					[
+						"normali",
+						"normalizeNumber"
+					]
+				],
+				"width": 664.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 196.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 72,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
